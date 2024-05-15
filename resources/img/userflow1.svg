@@ -1,4 +1,4 @@
-<!--
+
 Licensed to the Apache Software Foundation (ASF) under one or more
 contributor license agreements.  See the NOTICE file distributed with
 this work for additional information regarding copyright ownership.
@@ -13,12 +13,12 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
--->
+
 <svg width="2000" height="1362" viewBox="0 0 2000 1362" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_214_2540)">
 <g clip-path="url(#clip1_214_2540)">
 <rect width="980" height="754" fill="white"/>
-<rect width="980" height="825" fill="#F9F9FA"/>
+<rect width="980" height="825" fill="#F9F9FA"
 <circle cx="164.723" cy="54" r="18" fill="#7497F7"/>
 <path d="M167.127 46.4545V61H164.492V49.0185H164.407L161.005 51.1918V48.777L164.62 46.4545H167.127Z" fill="white"/>
 <circle cx="384.867" cy="54" r="18" fill="#F0F4FE"/>
