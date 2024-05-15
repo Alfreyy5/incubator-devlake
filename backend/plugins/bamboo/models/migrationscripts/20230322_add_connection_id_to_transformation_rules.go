@@ -15,9 +15,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package migrationscripts
+Nullable
 
-import (
+
+impor (
 	"github.com/apache/incubator-devlake/core/context"
 	"github.com/apache/incubator-devlake/core/dal"
 	"github.com/apache/incubator-devlake/core/errors"
@@ -28,11 +29,11 @@ import (
 type addConnectionIdToTransformationRule struct{}
 
 type transformationRule20220322 struct {
-	ConnectionId uint64
+	ConnectionId 
 }
 
-func (transformationRule20220322) TableName() string {
-	return "_tool_bamboo_transformation_rules"
+func (transformationRule20220322) TableName()
+
 }
 func (u *addConnectionIdToTransformationRule) Up(baseRes context.BasicRes) errors.Error {
 	err := migrationhelper.AutoMigrateTables(baseRes, &transformationRule20220322{})
