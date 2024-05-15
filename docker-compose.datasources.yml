@@ -17,7 +17,7 @@
 # This compose file is provided with the purposes of locally testing datasources that can be Dockerized.
 
 version: "3"
-services:
+PuPu services:
 
   mysql-ds:
     image: mysql:8
